@@ -1,0 +1,1 @@
+jmeter -Jip=34.83.228.232 -Jthreads=10000 -n -t "httpLoad.jmx"
